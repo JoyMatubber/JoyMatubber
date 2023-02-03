@@ -2,9 +2,10 @@
 <h4 align="center">Student at Compuer science and Engineer</h4>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-- 🌱 I’m currently learning **Nest JS**
+- 🌱 I’m currently learning **Nest JS and Probelm Solving**
 
 - 📫 How to reach me **joy.matubber.41959@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
